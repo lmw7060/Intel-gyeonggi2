@@ -2,6 +2,7 @@
 ## Intel-gyeonggi2
 ### Intel-gyeonggi2
 #### Intel-gyeonggi2
+```
 //int r = HAL_GPIO_ReadPin(BLUE_GPIO_Port, BLUE_Pin);
 	  //if(r == 0)	//Button pushed
 //	  if(val ==0)
@@ -32,3 +33,4 @@
 	  {
 	  HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, 0);	//LED OFF
 	  }
+```
